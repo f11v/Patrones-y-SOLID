@@ -169,4 +169,5 @@ La adopción de patrones de diseño y principios SOLID no solo mejora la calidad
 
 # Herramientas
 **Link Video Explicacion:** https://youtu.be/gViDWMJs6t0
+
 **Link Proyecto Anterior:** https://github.com/f11v/C.git
