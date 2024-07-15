@@ -167,3 +167,6 @@ public class UsuariosController : Controller
 # Conclusion
 La adopción de patrones de diseño y principios SOLID no solo mejora la calidad y mantenibilidad del código, sino que también contribuye significativamente al éxito a largo plazo de los proyectos de software. Estas prácticas proporcionan una base sólida para el desarrollo de software escalable, flexible y robusto. Al integrar estos principios en el proceso de desarrollo, los equipos pueden abordar de manera más efectiva la complejidad inherente a los sistemas modernos, mejorar la colaboración y la comunicación, y asegurar que el software cumpla con los requisitos actuales y futuros del negocio.
 
+# Herramientas
+**Link Video Explicacion:** https://youtu.be/gViDWMJs6t0
+**Link Proyecto Anterior:** https://github.com/f11v/C.git
